@@ -18,16 +18,16 @@ organizations: []
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in the Department of Economics at the University of Illinois at Chicago. 
+bio: ""
 
-interests:
-- Economics of Education
-- Labor Economics
-- Public Economics
-- Applied Microeconomics
+interests: []
+#- Economics of Education
+#- Labor Economics
+#- Public Economics
+#- Applied Microeconomics
 
-education:
-  courses:
+#education:
+#  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
@@ -71,4 +71,8 @@ user_groups: []
 #- Visitors
 ---
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the Department of Economics at the University of Illinois at Chicago. 
+
+---
+My fields of interest include Economics of Education, Labor Economics, Public Economics, and Applied Microeconomics. I also have experience in incorporating machine learning and deep learning techniques into economic research. 
+
