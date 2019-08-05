@@ -1,0 +1,18 @@
+---
+title: "Charter"
+date: 2019-08-05T14:51:32-05:00
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+# Charter Competition and Traditional Public School Districts’ Resource Allocation: Evidence from Michigan Charter School Cap-lifting
+
+Abstract: This paper studies the effect of policy-driven charter school competition on Traditional Public School Districts’ cost efficiency. The Michigan 2011 Cap-lifting policy introduces potential and actual competition of university-authorized charter schools across districts. By exploiting this arguably exogenous variation, I implement a Dynamic Difference-in-Differences research design to examine their response to both types of competition. Results suggest that districts prioritize on instructional employees and decrease their spendings on non-instructional employees. Little evidence indicates such change is driven by student sorting. The estimates provide evidence of effect of potential competition via districts' intention to deter future charter competition.

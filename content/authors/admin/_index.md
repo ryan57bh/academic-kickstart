@@ -71,8 +71,7 @@ user_groups: []
 #- Visitors
 ---
 
-I am a Ph.D. candidate in the Department of Economics at the University of Illinois at Chicago. 
-
+I am a Ph.D. candidate in the Department of Economics at the University of Illin
 ---
 My fields of interest include Economics of Education, Labor Economics, Public Economics, and Applied Microeconomics. I also have experience in incorporating machine learning and deep learning techniques into economic research. 
 
